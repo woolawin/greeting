@@ -1,0 +1,7 @@
+
+name='greeting'
+type='package'
+supported_platforms=['all']
+
+[versioning]
+type='git/semantic_tag'
